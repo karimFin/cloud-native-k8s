@@ -1,6 +1,6 @@
 #Platform
 
-Production-ready, cloud-native application. Deployed on Kubernetes with CI/CD and OCI Terraform infrastructure.
+ cloud-native application. Deployed on Kubernetes with CI/CD and OCI Terraform infrastructure.
 
 ## Highlights
 
